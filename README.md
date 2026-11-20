@@ -1,2 +1,0 @@
-# my-stremio-iptv
-iptv
